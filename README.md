@@ -6,7 +6,7 @@ ik ben van plan om in het hoekje van mijn klok een animatie te tonen van het wee
 
 ik kan het weer parsen vanaf deze url: 
 
-http://weather.yahooapis.com/forecastrss?w=727145
+http://weather.yahooapis.com/forecastrss?w=727145&u=c
 
 hier nog meer informatie over de code's die de xml gebruikt:
 
