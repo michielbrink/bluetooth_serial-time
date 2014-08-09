@@ -1,13 +1,9 @@
-dit programma stuurt via de seriele poort (of via bluetooth) de tijd naar mijn klok.
+This script send the time to my clock 
 
-het weer
+weather
 --------
-ik ben van plan om in het hoekje van mijn klok een animatie te tonen van het weer. (bijv. een wolkje die aan het regenen is)
-
-ik kan het weer parsen vanaf deze url: 
+weather api information (not implented yet) 
 
 http://weather.yahooapis.com/forecastrss?w=727145&u=c
-
-hier nog meer informatie over de code's die de xml gebruikt:
 
 http://developer.yahoo.com/weather/
