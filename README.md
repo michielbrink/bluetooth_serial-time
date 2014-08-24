@@ -1,3 +1,7 @@
+wiki!!!!
+-------
+http://tkkrlab.nl/wiki/Ledmatrix-clock
+
 msp430g2553 firmware:
 -------
 compile with:	msp430-gcc -mmcu=msp430g2553 -o main.elf main.c
