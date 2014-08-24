@@ -1,4 +1,4 @@
-This script send the time to my clock 
+klok.py send the time to my clock 
 
 weather
 --------
