@@ -1,3 +1,9 @@
+msp430g2553 firmware:
+-------
+compile with:	msp430-gcc -mmcu=msp430g2553 -o main.elf main.c
+upload with:	sudo mspdebug rf2500 "prog main.elf" "run"
+
+
 klok.py send the time to my clock 
 
 weather
